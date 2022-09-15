@@ -23,7 +23,7 @@ function App() {
        <Route exact path="/depressao">
          <Depressao />
        </Route>
-       <Route exact path="/tratamento">
+       <Route exact path="/111111111tratamento">
          <Tratamento />
        </Route>
        <Route exact path="/ajuda">

@@ -20,7 +20,7 @@ const Ajuda = () => (
                
 
             <div className="box-button">
-                <a className="button-ajuda" href="https://mente-careapp.vercel.app/" target="_blank">Questionario</a>
+                <a className="button-ajuda" href="" target="_blank">Questionario</a>
                
             </div>
         </div>
