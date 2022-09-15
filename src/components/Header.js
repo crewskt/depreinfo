@@ -13,7 +13,7 @@ const Header = () => {
         <header className="header-content">
             <nav className="navBar">
           
-              <h2 className="logo"><Link className="logo" to="/">Depre Info</Link></h2> 
+              <h2 className="logo"><Link className="logo" to="/">DEPRE INFO</Link></h2> 
 
                 <div className="menu-mobile" onClick={show} >
                     <div className="hamburguer"></div>
